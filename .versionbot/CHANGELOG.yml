@@ -1,4 +1,20 @@
 - commits:
+    - subject: 'balena-beaglebone: rename connectivity packagegroup'
+      hash: 31ea97cb921805893dd67255d4207651781a7a54
+      body: |
+        Rename the resin-connectivity packagegroup.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Changelog-entry: 'balena-beaglebone: rename connectivity packagegroup'
+        changelog-entry: 'balena-beaglebone: rename connectivity packagegroup'
+        Signed-off-by: Mark Corbin <mark@balena.io>
+        signed-off-by: Mark Corbin <mark@balena.io>
+      author: Mark Corbin
+      nested: []
+  version: 2.78.0+rev2
+  date: 2021-05-13T10:14:44.929Z
+- commits:
     - subject: Rename resin-supervisor to balena-supervisor
       hash: 8e39f6e485e345a8a7b67a32d1638c1ba849107b
       body: ''

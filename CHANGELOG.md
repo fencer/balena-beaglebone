@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.78.0+rev2
+## (2021-05-13)
+
+* balena-beaglebone: rename connectivity packagegroup [Mark Corbin]
+
 # v2.78.0+rev1
 ## (2021-05-11)
 
